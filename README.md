@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianMoschke
-- 👀 I’m interested in Coding, Data Science, IT-Security
+- 👀 I’m interested in Coding, Data Science, IT-Security, Artificial Intelligence
 - 🌱 I’m currently learning Java
 
 <!---
