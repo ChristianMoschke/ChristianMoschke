@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristianMoschke
+- 👋 Hi, I’m Chris!
 - 👀 I’m interested in Coding, Data Science, IT-Security, Artificial Intelligence
 - 🌱 I’m currently learning Java
 
