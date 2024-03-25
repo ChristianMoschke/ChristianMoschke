@@ -4,3 +4,4 @@
 
 - 📌 Graduated training as a **graphic designer**
 - 🌱 Currently learning **web development**
+- 🎯 Aiming to become a **full-stack dev**
