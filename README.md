@@ -3,5 +3,5 @@
 **I'm Chris and I live in central, western Germany. Currently I'm taking part in the neuefische bootcamp for web development.**
 
 - 📌 Graduated training as a **graphic designer**
-- 🌱 Currently learning **HTML / CSS / JavaScript**
+- 🌱 Currently learning **REACT / NextJS**
 - 🎯 Aiming to become a **full-stack dev**
