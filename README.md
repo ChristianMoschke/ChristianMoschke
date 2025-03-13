@@ -1,7 +1,6 @@
 ### Hi there :wave:
 
-**I'm Chris and I live in central, western Germany. Currently I'm taking part in the neuefische bootcamp for web development.**
+**I'm Chris and I live in central, western Germany.**
 
-- 📌 **graphic designer** & **junior web developer**
-- 🌱 Currently learning **REACT / NextJS**
-- 🎯 Aiming to become a **full-stack dev**
+- 📌 **graphic designer**
+- 🎯 Aiming to become a **IT Systems Integration Specialist**
